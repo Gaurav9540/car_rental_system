@@ -18,8 +18,8 @@ Explore the world of car rentals with the Car Rental System, a Java-based consol
 ## Getting Started
 
 1. **Clone the Repo**:
-   ``sh
-   `git clone https://github.com/Gaurav9540/Car-Rental-System.git`
+    ```sh
+    git clone https://github.com/Gaurav9540/Car-Rental-System.git
 
 ## Contributions Welcome! 🎉
 
