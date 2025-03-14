@@ -4,10 +4,14 @@ Explore the world of car rentals with the Car Rental System, a Java-based consol
 
 ## Features
 
-🚀 Key Features <br>
+🚀 Key Features: <br>
+
 ✅ **Rent a Car** – Experience the ease of renting cars through an interactive console-based interface.<br>
+
 ✅ **Return a Car** – Effortlessly return previously rented cars and automatically update car availability in the system. <br>
+
 ✅ **Customer Management** – Add, update, and retrieve customer records, including personal information and rental history. <br>
+
 ✅ **Car Management** – Manage car details such as brand, model, pricing, and availability to keep the system up to date. <br>
 ✅ **Rental History** – Keep track of all rental transactions, including rental duration, customer details, and the total amount charged. <br>
 ✅ **Real-Time Availability** – Automatically update car availability and status when a car is rented or returned. <br>
