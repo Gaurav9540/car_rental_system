@@ -13,10 +13,15 @@ Explore the world of car rentals with the Car Rental System, a Java-based consol
 ✅ **Customer Management** – Add, update, and retrieve customer records, including personal information and rental history. <br>
 
 ✅ **Car Management** – Manage car details such as brand, model, pricing, and availability to keep the system up to date. <br>
+
 ✅ **Rental History** – Keep track of all rental transactions, including rental duration, customer details, and the total amount charged. <br>
+
 ✅ **Real-Time Availability** – Automatically update car availability and status when a car is rented or returned. <br>
+
 ✅ **Flexible Pricing** – Implement different pricing models based on car type, rental duration, and special offers. <br>
+
 ✅ **Robust Error Handling** – Handle incorrect input and system errors gracefully with user-friendly messages. <br>
+
 ✅ **Data Integrity and Security** – Ensure secure handling of customer and rental data with proper access controls and validation. <br>
 
 ## Getting Started
